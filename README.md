@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Shaan310/LeetCodes/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Shaan310/LeetCodes/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shaan310/LeetCodes/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
