@@ -6,7 +6,8 @@ class Solution(object):
                 c+=1
         if c==3:
             return True
-        return False
+        else:
+            return False
 
 
         
