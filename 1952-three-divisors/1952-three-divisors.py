@@ -5,7 +5,7 @@ class Solution(object):
             if n%i==0:
                 c+=1
         if c==3:
-            return True
+                return True
         else:
             return False
 
