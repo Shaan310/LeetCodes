@@ -25,3 +25,4 @@ class Solution(object):
                 elif arr[j] > one:
                     return one
             return one    
+        
