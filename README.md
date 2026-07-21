@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shaan310/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
 ## Counting Sort
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shaan310/LeetCodes/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shaan310/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
