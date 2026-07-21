@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shaan310/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaan310/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
