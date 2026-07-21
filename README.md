@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shaan310/LeetCodes/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Shaan310/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaan310/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shaan310/LeetCodes/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Shaan310/LeetCodes/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shaan310/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
