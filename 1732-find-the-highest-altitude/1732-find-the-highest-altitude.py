@@ -1,12 +1,15 @@
 class Solution(object):
     def largestAltitude(self, gain):
-        alt=[]
         c=0
-        alt.append(c)
+        h=0
         for gai in gain:
             c+=gai
-            alt.append(c)
-        return max(alt)
+
+            if c>h:
+                h=c
+        return h
+
+    
         
 
         
