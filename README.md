@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shaan310/LeetCodes/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shaan310/LeetCodes/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Shaan310/LeetCodes/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Shaan310/LeetCodes/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Shaan310/LeetCodes/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Shaan310/LeetCodes/tree/master/0287-find-the-duplicate-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shaan310/LeetCodes/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Shaan310/LeetCodes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shaan310/LeetCodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shaan310/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
