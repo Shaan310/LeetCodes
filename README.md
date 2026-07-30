@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Shaan310/LeetCodes/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Shaan310/LeetCodes/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Shaan310/LeetCodes/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shaan310/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaan310/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shaan310/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shaan310/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shaan310/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shaan310/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shaan310/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
