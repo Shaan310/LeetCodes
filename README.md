@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shaan310/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shaan310/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -75,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shaan310/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shaan310/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shaan310/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
