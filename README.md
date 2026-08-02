@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shaan310/LeetCodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shaan310/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Shaan310/LeetCodes/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaan310/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
