@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shaan310/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Shaan310/LeetCodes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shaan310/LeetCodes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shaan310/LeetCodes/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Shaan310/LeetCodes/tree/master/0877-stone-game) |
@@ -134,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shaan310/LeetCodes/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shaan310/LeetCodes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shaan310/LeetCodes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shaan310/LeetCodes/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shaan310/LeetCodes/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shaan310/LeetCodes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Shaan310/LeetCodes/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Shaan310/LeetCodes/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
