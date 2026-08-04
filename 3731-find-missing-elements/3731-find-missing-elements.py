@@ -3,8 +3,9 @@ class Solution(object):
         l=min(nums)
         r=max(nums)
         c=[]
+        s=set(nums)
         for i in range(l,r+1):
-            if i in nums:
+            if i in s:
                 continue
             else:
                 c.append(i)
