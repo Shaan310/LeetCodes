@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shaan310/LeetCodes/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Shaan310/LeetCodes/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shaan310/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -74,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shaan310/LeetCodes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shaan310/LeetCodes/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Shaan310/LeetCodes/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaan310/LeetCodes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shaan310/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Shaan310/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shaan310/LeetCodes/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shaan310/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
