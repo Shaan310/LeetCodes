@@ -1,15 +1,15 @@
 class Solution(object):
     def majorityElement(self, nums):
-        s={}
-        n=len(nums)
-        for i in range(n):
-            if nums[i] not in s:
-                s[nums[i]]=1
-            else:
-                s[nums[i]]+=1
-        for key,value in s.items():
-            if value>(n/2):
-                return key
+        cand = 0
+        count = 0
+        for num in nums:
+            if count == 0:
+                cand=num
+            if cand==num:
+                count+=1
+            else: 
+                count-=1
+        return cand
 
 
 
