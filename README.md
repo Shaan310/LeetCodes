@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Shaan310/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
