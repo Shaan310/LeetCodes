@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shaan310/LeetCodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shaan310/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Shaan310/LeetCodes/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Shaan310/LeetCodes/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Shaan310/LeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shaan310/LeetCodes/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Shaan310/LeetCodes/tree/master/0412-fizz-buzz) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shaan310/LeetCodes/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/Shaan310/LeetCodes/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shaan310/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shaan310/LeetCodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shaan310/LeetCodes/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/Shaan310/LeetCodes/tree/master/1688-count-of-matches-in-tournament) |
