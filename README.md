@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaan310/LeetCodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shaan310/LeetCodes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shaan310/LeetCodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3701-compute-alternating-sum](https://github.com/Shaan310/LeetCodes/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Shaan310/LeetCodes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shaan310/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Shaan310/LeetCodes/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shaan310/LeetCodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Shaan310/LeetCodes/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shaan310/LeetCodes/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
 |  |
 | ------- |
