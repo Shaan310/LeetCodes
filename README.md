@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shaan310/LeetCodes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shaan310/LeetCodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shaan310/LeetCodes/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/Shaan310/LeetCodes/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Shaan310/LeetCodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shaan310/LeetCodes/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Shaan310/LeetCodes/tree/master/0292-nim-game) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Shaan310/LeetCodes/tree/master/0223-rectangle-area) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Shaan310/LeetCodes/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |
