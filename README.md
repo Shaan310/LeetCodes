@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shaan310/LeetCodes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Shaan310/LeetCodes/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shaan310/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaan310/LeetCodes/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shaan310/LeetCodes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2325-decode-the-message](https://github.com/Shaan310/LeetCodes/tree/master/2325-decode-the-message) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shaan310/LeetCodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shaan310/LeetCodes/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Shaan310/LeetCodes/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shaan310/LeetCodes/tree/master/0771-jewels-and-stones) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shaan310/LeetCodes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2325-decode-the-message](https://github.com/Shaan310/LeetCodes/tree/master/2325-decode-the-message) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shaan310/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shaan310/LeetCodes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shaan310/LeetCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shaan310/LeetCodes/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shaan310/LeetCodes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
