@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shaan310/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaan310/LeetCodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shaan310/LeetCodes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shaan310/LeetCodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaan310/LeetCodes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/Shaan310/LeetCodes/tree/master/2325-decode-the-message) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shaan310/LeetCodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shaan310/LeetCodes/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
 |  |
