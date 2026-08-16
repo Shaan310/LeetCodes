@@ -4,12 +4,9 @@ class Solution(object):
         q={}
         i=0
         j=0
-        for so in s:
-            p[so]=i
-            i+=1
-        for to in t:
-            q[to]=j
-            j+=1
+        for i in range(len(s)):
+            p[s[i]]=i
+            q[t[i]]=i
         c=0
         for so in s:
             c+=(abs(p[so]-q[so]))
