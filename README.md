@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shaan310/LeetCodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Shaan310/LeetCodes/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaan310/LeetCodes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Shaan310/LeetCodes/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Shaan310/LeetCodes/tree/master/3701-compute-alternating-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shaan310/LeetCodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Shaan310/LeetCodes/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shaan310/LeetCodes/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Shaan310/LeetCodes/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaan310/LeetCodes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shaan310/LeetCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Shaan310/LeetCodes/tree/master/3668-restore-finishing-order) |
