@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shaan310/LeetCodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shaan310/LeetCodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shaan310/LeetCodes/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shaan310/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shaan310/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shaan310/LeetCodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shaan310/LeetCodes/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shaan310/LeetCodes/tree/master/0389-find-the-difference) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shaan310/LeetCodes/tree/master/0292-nim-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shaan310/LeetCodes/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
