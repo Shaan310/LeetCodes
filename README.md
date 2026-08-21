@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shaan310/LeetCodes/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shaan310/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shaan310/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shaan310/LeetCodes/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shaan310/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shaan310/LeetCodes/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shaan310/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shaan310/LeetCodes/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shaan310/LeetCodes/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Shaan310/LeetCodes/tree/master/0709-to-lower-case) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shaan310/LeetCodes/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shaan310/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shaan310/LeetCodes/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shaan310/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
