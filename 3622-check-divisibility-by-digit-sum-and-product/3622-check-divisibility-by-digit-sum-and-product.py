@@ -2,10 +2,12 @@ class Solution(object):
     def checkDivisibility(self, n):
         c=0
         p=1
-        for ni in str(n):
-            c+=int(ni)
-            p*=int(ni)
-        if n%(c+p)==0:
+        o=n
+        while n>0:
+            c+=(n%10)
+            p*=(n%10)
+            n//=10
+        if o%(c+p)==0:
             return True
         return False
 
