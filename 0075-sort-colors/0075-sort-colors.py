@@ -1,9 +1,8 @@
 class Solution(object):
     def sortColors(self, nums):
-        a=min(nums)
-        b=max(nums)
+        a=0
         c=0
-        while a<=b:
+        while a<=2:
             for i in range(len(nums)):
                 if nums[i]==a:
                     nums[c],nums[i]=nums[i],nums[c]
