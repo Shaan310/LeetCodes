@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shaan310/LeetCodes/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Shaan310/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Shaan310/LeetCodes/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Shaan310/LeetCodes/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shaan310/LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shaan310/LeetCodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shaan310/LeetCodes/tree/master/0169-majority-element) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shaan310/LeetCodes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shaan310/LeetCodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shaan310/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shaan310/LeetCodes/tree/master/0242-valid-anagram) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shaan310/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shaan310/LeetCodes/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Shaan310/LeetCodes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shaan310/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Shaan310/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shaan310/LeetCodes/tree/master/0344-reverse-string) |
@@ -304,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shaan310/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shaan310/LeetCodes/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shaan310/LeetCodes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
