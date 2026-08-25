@@ -1,9 +1,8 @@
 class Solution(object):
     def missingMultiple(self, nums, k):
-        l=set(nums)
         c=1
         while True:
-            if k*c not in l:
+            if k*c not in nums:
                 return k*c
             c+=1
         
