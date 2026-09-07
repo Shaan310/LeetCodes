@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Shaan310/LeetCodes/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1051-height-checker](https://github.com/Shaan310/LeetCodes/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaan310/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shaan310/LeetCodes/tree/master/1386-cinema-seat-allocation) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shaan310/LeetCodes/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Shaan310/LeetCodes/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaan310/LeetCodes/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shaan310/LeetCodes/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shaan310/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1051-height-checker](https://github.com/Shaan310/LeetCodes/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shaan310/LeetCodes/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Shaan310/LeetCodes/tree/master/1051-height-checker) |
 ## Trie
 |  |
 | ------- |
