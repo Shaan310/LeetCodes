@@ -1,18 +1,10 @@
-class Solution(object):
+class Solution:
     def leftRightDifference(self, nums):
-        left=[0]
-        right=[0]
-        n=len(nums)
-        if n==1:
-            return [0]
-        for i in range(n):
-            left.append(left[i]+nums[i])
-            if len(left)==n:
-                right.append(right[i]+nums[n-i-1])
-                break
-            right.append(right[i]+nums[n-i-1])
-        right.reverse()
+        right=sum(nums)
+        left=0
         c=[]
-        for i in range(n):
-            c.append(abs(left[i]-right[i]))
+        for num in nums:
+            right-=num
+            c.append(abs(left-right))
+            left+=num
         return c
