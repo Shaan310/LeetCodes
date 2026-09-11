@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shaan310/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shaan310/LeetCodes/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaan310/LeetCodes/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Shaan310/LeetCodes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2418-sort-the-people](https://github.com/Shaan310/LeetCodes/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shaan310/LeetCodes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shaan310/LeetCodes/tree/master/2574-left-and-right-sum-differences) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shaan310/LeetCodes/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1952-three-divisors](https://github.com/Shaan310/LeetCodes/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shaan310/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Shaan310/LeetCodes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/Shaan310/LeetCodes/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Shaan310/LeetCodes/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Shaan310/LeetCodes/tree/master/2469-convert-the-temperature) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Shaan310/LeetCodes/tree/master/0771-jewels-and-stones) |
 | [1436-destination-city](https://github.com/Shaan310/LeetCodes/tree/master/1436-destination-city) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shaan310/LeetCodes/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Shaan310/LeetCodes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/Shaan310/LeetCodes/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Shaan310/LeetCodes/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Shaan310/LeetCodes/tree/master/2942-find-words-containing-character) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Shaan310/LeetCodes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Greedy
 |  |
 | ------- |
