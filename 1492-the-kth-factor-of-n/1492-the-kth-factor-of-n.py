@@ -1,11 +1,10 @@
 class Solution(object):
     def kthFactor(self, n, k):
-        c=[]
+        c=0
         for i in range(1,n+1):
             if n%i==0:
-                c.append(i)
-        if k>len(c):
-            return -1
-        else:
-            return c[k-1]
+                c+=1
+            if c==k:
+                return i
+        return -1
         
