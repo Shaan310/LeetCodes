@@ -1,4 +1,3 @@
 class Solution(object):
     def mirrorDistance(self, n):
-        l=str(n)[::-1]
-        return abs(n-int(l))
+        return abs(n-int(str(n)[::-1]))
