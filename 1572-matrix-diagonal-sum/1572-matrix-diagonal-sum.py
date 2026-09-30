@@ -1,9 +1,8 @@
 class Solution(object):
     def diagonalSum(self, mat):
         n=len(mat)
-        c=0
+        c=p=0
         r=n-1
-        p=0
         for i in range(n):
             if (p+i)==(r-i):
                 c+=mat[p+i][p+i]
