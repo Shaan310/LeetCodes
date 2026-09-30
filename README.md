@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shaan310/LeetCodes/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/Shaan310/LeetCodes/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shaan310/LeetCodes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Shaan310/LeetCodes/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Shaan310/LeetCodes/tree/master/1920-build-array-from-permutation) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/Shaan310/LeetCodes/tree/master/1572-matrix-diagonal-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shaan310/LeetCodes/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Greedy
 |  |
