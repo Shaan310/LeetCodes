@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shaan310/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0804-unique-morse-code-words](https://github.com/Shaan310/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Shaan310/LeetCodes/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Shaan310/LeetCodes/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Shaan310/LeetCodes/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Shaan310/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shaan310/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shaan310/LeetCodes/tree/master/1386-cinema-seat-allocation) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Shaan310/LeetCodes/tree/master/0537-complex-number-multiplication) |
 | [0709-to-lower-case](https://github.com/Shaan310/LeetCodes/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shaan310/LeetCodes/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Shaan310/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [1436-destination-city](https://github.com/Shaan310/LeetCodes/tree/master/1436-destination-city) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shaan310/LeetCodes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shaan310/LeetCodes/tree/master/2125-number-of-laser-beams-in-a-bank) |
