@@ -4,11 +4,12 @@ class Solution(object):
         a=0
         b=r-1
         m=0
-        while b>a:                
+        while True:
+            if a==b:
+                return m
             if height[a]>=height[b]:
-                m=max(height[b]*(b-a),m)
+                m=max(height[b]*abs(a-b),m)
                 b-=1
             else:
-                m=max(height[a]*(b-a),m)
+                m=max(height[a]*abs(a-b),m)
                 a+=1
-        return m   
