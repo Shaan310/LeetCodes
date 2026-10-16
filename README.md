@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shaan310/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shaan310/LeetCodes/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shaan310/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shaan310/LeetCodes/tree/master/0027-remove-element) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shaan310/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shaan310/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shaan310/LeetCodes/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shaan310/LeetCodes/tree/master/0075-sort-colors) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shaan310/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Shaan310/LeetCodes/tree/master/1386-cinema-seat-allocation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shaan310/LeetCodes/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
