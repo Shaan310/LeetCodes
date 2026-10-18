@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shaan310/LeetCodes/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shaan310/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaan310/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Shaan310/LeetCodes/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Shaan310/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Shaan310/LeetCodes/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Shaan310/LeetCodes/tree/master/1512-number-of-good-pairs) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shaan310/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/Shaan310/LeetCodes/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/Shaan310/LeetCodes/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shaan310/LeetCodes/tree/master/1386-cinema-seat-allocation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shaan310/LeetCodes/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shaan310/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
