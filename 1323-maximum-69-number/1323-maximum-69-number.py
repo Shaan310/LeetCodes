@@ -5,8 +5,7 @@ class Solution(object):
             if r[i] == "6":
                 r[i] = "9"
                 break
-        s="".join(r)
-        return int(s)
+        return int(''.join(r))
 
 
 
